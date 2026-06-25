@@ -1,0 +1,20 @@
+{
+  "name": "calculadora-media-alunos",
+  "version": "1.0.0",
+  "description": "Aplicação web simples para calcular a média e situação de alunos usando Express e localStorage.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "calculadora",
+    "escola"
+  ],
+  "author": "Equipa de LPWI",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
